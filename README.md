@@ -10,6 +10,7 @@ A significant portion of the population faces challenges in accessing loans beca
 
 ## Results
 1. The most important features to determine whether the client is having difficulty repaying the loan are score from external data source 2, score from external data source 3, client's age in days, days ID publish, and days registration
+![Image Description](asset/top feature.png)
 2. The best model to predict client’s repayment abilities is Random Forest model.
 
 ## Move Recommendation
